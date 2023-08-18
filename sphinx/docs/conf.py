@@ -24,3 +24,5 @@ html_sidebars = {
         "sidebar/variant-selector.html",
     ]
 }
+
+exclude_patterns = ['venv/*']
